@@ -1,0 +1,12 @@
+Rainbow Schools
+---------------
+
+Student Name  Student Id
+------------------------
+
+John          01
+Sam           02
+Michael       03
+Ram           04
+
+------------------------

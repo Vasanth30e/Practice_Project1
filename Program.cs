@@ -35,7 +35,7 @@ namespace PracticeProject1
             }
             finally
             {
-                Console.WriteLine("\nProgram Successfully Executed");
+                Console.WriteLine("\nProgram Ended");
             }
 
             Console.ReadKey();

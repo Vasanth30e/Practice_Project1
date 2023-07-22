@@ -1,12 +1,14 @@
-Rainbow Schools
----------------
+          Rainbow School
+          --------------
+	    Student Details
+-------------------------------------
+Student Name  Student Id  Student Age
+------------  ----------  -----------
 
-Student Name  Student Id
-------------------------
+Alice          01         21
+Bob            02         23
+Charlie        03         22
+David          04         20
+Elizabeth      05         21
 
-John          01
-Sam           02
-Michael       03
-Ram           04
-
-------------------------
+-------------------------------------
